@@ -1,2 +1,2 @@
 # Data-structures-and-Algorithms
-here i am providing my code of DSA.
+Hello Guys😇 ! In this repo you will find some of the basic algorithms and data structures codes.
